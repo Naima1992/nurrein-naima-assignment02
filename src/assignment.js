@@ -18,7 +18,7 @@ function sumOfNumbers(arrayOfNumbers) {
       return number+=accumulator
     })
 }
-
+sumOfNumbers([5,6,7,8,9])
 /**
  * Challenge - 2
  * 
@@ -35,7 +35,7 @@ function countEvenNumbers(arrayOfNumbers) {
             addSum += number
         }
 }
-
+countEvenNumbers([9,2,4,5,7])
 
 /**
  * Challenge - 3
